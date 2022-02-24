@@ -1,13 +1,15 @@
 [
-    {
-        "name": "姓名1",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
-    },{
-        "name": "姓名2",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
+        {
+	"name": "张志颖",
+	"stucode": "1912120145",
+	"password": "zzy1528027",
+	"schoolcode": "xmut",
+	"enable": "true"
+    } ,{
+	"name": "张诗伟",
+	"stucode": "1912120144",
+	"password": "12023.xmlg",
+	"schoolcode": "xmut",
+	"enable": "true"
     }
 ]
